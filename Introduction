@@ -1,0 +1,13 @@
+Retail Management Portfolio Introduction
+
+Welcome to my portfolio, where I delve into the world of retail management through the lens of data analysis.
+In this collection of projects, I will demonstrate my expertise in extracting valuable insights from retail datasets, utilizing SQL and other data analysis tools.
+Our dataset features a treasure trove of customer purchase records, including unique identifiers and purchase dates.
+
+In the realm of retail management, understanding customer behavior is paramount. One of the key objectives of this analysis is to uncover patterns of customer engagement and loyalty.
+To achieve this, I have focused on calculating the average number of days between consecutive purchases for each customer. This metric provides crucial insights into how often customers return to make additional purchases, offering valuable information for marketing strategies, inventory management, and customer retention initiatives.
+
+By employing SQL, particularly leveraging the power of window functions, I have compared purchase dates for the same customer, revealing the average time lapse between their purchases.
+These findings are invaluable for retail businesses seeking to enhance the customer experience and boost their bottom line.
+
+Join me as we navigate the world of retail data analysis, aiming to uncover actionable insights that will empower businesses to better serve their customers and drive success in this dynamic industry.
